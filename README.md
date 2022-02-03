@@ -1,5 +1,5 @@
 # PlayWithPython
-This Repo is for experimenting with Python
+This Repository is for experimenting with Python
 
-#Experiments
+# Experiments
 WebScraping
